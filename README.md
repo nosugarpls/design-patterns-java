@@ -1,4 +1,4 @@
-# Design-Pattern-in-Java
+# Design-Patterns-in-Java
 demo design patterns in java
 
 Creational Design Patterns
