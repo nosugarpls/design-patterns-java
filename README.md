@@ -1,5 +1,4 @@
 # Design-Patterns-in-Java
-demo design patterns in java
 
 Creational Design Patterns
 · Singleton Pattern
